@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b14"/><stop offset="1" stop-color="#11182b"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#79a8ff"/><stop offset=".55" stop-color="#9b8cff"/><stop offset="1" stop-color="#6fe7d0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="70" r="240" fill="#3157d5" opacity=".13"/>
+  <circle cx="100" cy="600" r="260" fill="#6c48d9" opacity=".10"/>
+  <rect x="84" y="82" width="70" height="70" rx="20" fill="url(#g)"/>
+  <text x="119" y="127" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="white">HA</text>
+  <text x="84" y="250" font-family="Arial,sans-serif" font-size="68" font-weight="700" fill="white">Hammad Ahmed</text>
+  <text x="84" y="324" font-family="Arial,sans-serif" font-size="34" fill="#aebbd0">Native Mobile Application Developer · iOS &amp; Android</text>
+  <text x="84" y="404" font-family="Arial,sans-serif" font-size="28" fill="#7f90aa">Swift · SwiftUI · UIKit · Kotlin · Java · Firebase · Mobile Security</text>
+  <rect x="84" y="470" width="390" height="3" rx="2" fill="url(#g)"/>
+</svg>
